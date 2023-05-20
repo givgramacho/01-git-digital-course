@@ -13,3 +13,10 @@ git add .
 
 ## Repositório remotos 
 *comando git push 
+
+## Trabalhando em repositório remotos com modificações de arquivos das equipes
+
+* git push 
+ local - repositório
+* git pull 
+  repositório -> local 
