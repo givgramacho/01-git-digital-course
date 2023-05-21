@@ -22,3 +22,7 @@ git add .
   repositório -> local 
 * git fetch 
 * git branch 
+* git checkout 
+* git merge 
+  
+## GitHub 
