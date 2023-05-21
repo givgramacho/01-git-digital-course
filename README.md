@@ -20,3 +20,5 @@ git add .
  local - repositório
 * git pull 
   repositório -> local 
+* git fetch 
+* git branch 
